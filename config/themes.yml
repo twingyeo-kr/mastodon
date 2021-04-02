@@ -1,3 +1,7 @@
 default: styles/application.scss
 contrast: styles/contrast.scss
 mastodon-light: styles/mastodon-light.scss
+
+goyang:  styles/goyang.scss
+myeongjo:  styles/myeongjo.scss
+myeongjo_kronly:  styles/myeongjo_kronly.scss

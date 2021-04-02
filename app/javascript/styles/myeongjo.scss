@@ -1,0 +1,15 @@
+@import 'application';
+@import './fonts/chosunilbonm.scss';
+@import './fonts/sawarabi-mincho.scss';
+
+@font-face {
+    font-family: 'Hiragino Mincho ProN';
+    src: local('Hiragino Mincho ProN');
+
+    unicode-range: U+3000-303F, U+3040-309F, U+30A0-30FF, U+FF00-FFEF, U+4E00-9FAF;
+}
+
+
+html, body { 
+    font-family: 'Hiragino Mincho ProN', 'Sawarabi Mincho', 'ChosunilboNM', serif !important; 
+} 

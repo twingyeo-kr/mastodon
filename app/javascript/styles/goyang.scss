@@ -1,0 +1,12 @@
+@import 'application';
+
+@font-face {
+    font-family: 'Goyang-NJ';
+    src: local('GoyangNJ'),
+         url('../fonts/goyangnj/goyangnj.woff');
+    unicode-range: U+20-7F, U+3130-318F, U+AC00-D7AF;
+}
+
+html, body { 
+    font-family: 'Goyang-NJ', 'Arial', sans-serif !important; 
+} 
